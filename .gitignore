@@ -1,0 +1,20 @@
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
+
+# Dependencias y directorios generados automáticamente
+node_modules/
+dist/
+build/
+
+# Archivos sensibles
+.env
+.env.local
+
+# IDE / Editor específicos
+.vscode/
+.idea/
+
+# Sistema operativo específico
+Thumbs.db
